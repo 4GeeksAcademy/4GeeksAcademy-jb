@@ -61,7 +61,7 @@ experiences:
       Built real-world solutions using C#, Arduino, Python, and Docker.
         - Real-Time Flight Tracker and Data Visualizer using ASP.NET Core, SignalR, and AviationStack API.
         - Embedded anomaly detection system using ONNX Runtime and edge-computing devices.
-        - File storage platform with AES-encrypted SQL file chunking and GitLab CI/CD integration.
+        - File storage platform with AES-encrypted SQL file chunking and GitLab CI/CD integration!
 
 # Projects
 projects:
